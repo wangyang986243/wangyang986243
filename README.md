@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=wangyang986243&show_icons=true)](https://github.com/wangyang986243/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wangyang986243&repo=github-readme-stats)](https://github.com/wangyang986243/github-readme-stats)
+
