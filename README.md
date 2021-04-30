@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-- 🔭 I’m currently working for [美数信息科技（上海）有限公司]()
+
+ 🔭 I’m currently working for [美数信息科技（上海）有限公司]()
+- <!--
 - 🌱 I’m currently learning Architecture Design
 - 📫 How to reach me: [@xxoo521.com](https://xxoo521.com/)
 - 💬 Ask me about Serverless/Cloud/Frontend
