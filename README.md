@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
- 🔭 I’m currently working for 美数信息科技（上海）有限公司
- 🌱 I’m currently learning React&&uniApp
+ - 🔭 I’m currently working for 美数信息科技（上海）有限公司
+ - 🌱 I’m currently learning React&&uniApp
  <!--
 - 
 - 📫 How to reach me: [@xxoo521.com](https://xxoo521.com/)
