@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
- - 🔭 I’m currently working for 美数信息科技（上海）有限公司
+ - 🔭 I’m currently working for null
  - 🌱 I’m currently learning React && uni-app 
  - 📫 How to reach me: wangyang11171212@163.com
  <!--
